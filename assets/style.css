@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: black;
+}
+
+img {
+margin-top: 5%;
+    height: 10em;
+}
+
+nav {
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    margin: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+
+}
+
+.portafolio {
+    color: blueviolet;
+}
+
+p {
+    text-align: justify;
+}
